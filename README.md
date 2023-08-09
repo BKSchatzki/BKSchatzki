@@ -78,28 +78,28 @@
 ---
 
 <div align="center" id="projects">
-  <a href="https://songstruct.netlify.app" target="_blank">
+  <a href="https://github.com/BKSchatzki/songstruct" target="_blank">
     <img
       src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1691468692/bks-portfolio/songstruct_z756ky.jpg"
       alt="Songstruct"
       width="300"
     />
   </a>
-  <a href="https://bk-chat.netlify.app" target="_blank">
+  <a href="https://github.com/BKSchatzki/bk-chat" target="_blank">
     <img
       src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1691468692/bks-portfolio/bk-chat_fleaqo.jpg"
       alt="Youtube Badge"
       width="300"
     />
   </a>
-  <a href="https://cflatrun.com" target="_blank">
+  <a href="https://github.com/BKSchatzki/cflatrun-landingpage" target="_blank">
     <img
       src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1691468692/bks-portfolio/cflatrun-landingpage_qol3oj.jpg"
       alt="Youtube Badge"
       width="300"
     />
   </a>
-  <a href="https://nbs-portfolio.netlify.app" target="_blank">
+  <a href="https://github.com/BKSchatzki/nbs-portfolio" target="_blank">
     <img
       src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1691468692/bks-portfolio/nick-b-schatzki_i9v5yx.jpg"
       alt="Youtube Badge"
