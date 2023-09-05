@@ -78,10 +78,10 @@
 ---
 
 <div align="center" id="projects">
-  <a href="https://github.com/BKSchatzki/songstruct" target="_blank">
+  <a href="https://github.com/BKSchatzki/songstrudel" target="_blank">
     <img
-      src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1691468692/bks-portfolio/songstruct_z756ky.jpg"
-      alt="Songstruct"
+      src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1693945902/bks-portfolio/songstrudel_emoglr.jpg"
+      alt="Songstrudel"
       width="300"
     />
   </a>
@@ -106,5 +106,11 @@
       width="300"
     />
   </a>
+  <a href="https://github.com/BKSchatzki/songstruct" target="_blank">
+    <img
+      src="https://res.cloudinary.com/djqsm7sz5/image/upload/v1691468692/bks-portfolio/songstruct_z756ky.jpg"
+      alt="Songstruct"
+      width="300"
+    />
+  </a>
 </div>
-
