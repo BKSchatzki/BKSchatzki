@@ -28,14 +28,14 @@ JavaScript, HTML, CSS, Node.js, Express, React, SQL, MongoDB, TypeScript, Git & 
 - [PartyRoomBloom](https://partyroombloom.vercel.app/) - planning engaging tabletop gaming sessions. ([Repo](https://github.com/BKSchatzki/partyroombloom))
 - [C Flat Run](https://cflatrun.com) - getting this a cappella group more bookings. ([Repo](https://github.com/BKSchatzki/cflatrun-landingpage))
 - [Nick B. Schatzki](https://nbschatzki.com/) - making my brother a famous voice artist (shameless plug he's really good). ([Repo](https://github.com/BKSchatzki/nbschatzki-va))
-- Top Secret - wrangling an old React package because it's the only one I found that did what this secretive client wanted. (ImUnderAnNda)
-- [LA Epic Club Crawls](https://laepicclubcrawls.com/) - trying to persuade the owners to let me rebuild their site that I did my darndest to optimize (they're awesome people).
+- Top Secret - wrangling an old React package because it did what this secretive client wanted. (ImUnderAnNda)
+- [LA Epic Club Crawls](https://laepicclubcrawls.com/) - persuading the owners to let me rebuild their site that I did my darndest to optimize.
 
 ## Connecting...stuff
 
 Find me on [LinkedIn](https://linkedin.com/in/bkschatzki), reply to me on [X](https://x.com/bkschatzki), or check out a slightly nicer version of this bio on [my personal site](https://bkschatzki.dev).
 
 [^1]: By nerd friends, I mean tabletop roleplaying nerds and music theory nerds who don't rate pop music because it's too diatonic.
-[^2]: This time, the term "nerd friends" refers to fellow tech people. As you can see, I am excellent at naming things and never create ambiguity in the codebase.
+[^2]: This time, the term "nerd friends" refers to fellow tech people. I am excellent at naming things.
 [^3]: See [Underpants Gnomes](<https://en.wikipedia.org/wiki/Gnomes_(South_Park)>).
 [^4]: The word cloud for this bio is just the word STUFF.
