@@ -1,41 +1,39 @@
-# Me - Software Engineer
+<h1 align="left">Brendan K. Schatzki - Full Stack Software Development Engineer</h1>
 
-- I break things until they work
-- I overengineer stuff until stuff is simple
+###
 
-## Stuff I do
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" alt="" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+</div>
 
-- I make tools to make life easier for my nerd friends.[^1]
-- I present these tools at local meetups to my nerd friends.[^2]
-- Sometimes I wake up and find myself leading software development lifecycles.
-  1. In these situations, I inevitably have opinions about the existing codebase.
-  2. I volunteer to fix everything myself by changing the whole stack.
-  3. ???
-  4. I learn the value of teamwork. That counts as profit.[^3]
-  5. Rinse and repeat.
-- Senior year of university, I stumbled into working with an [AlphaLab](https://www.alphalab.org/)-funded startup.
-  - Actually, I just did the music for their app.
-  - I have an undertapped network.
+###
 
-## Stuff I use
+<h2 align="left">Current Focuses</h2>
 
-JavaScript, HTML, CSS, Node.js, Express, React, SQL, MongoDB, TypeScript, Git & Version Control, REST API, GraphQL, Next.js, Prisma, Mongoose, Jest, Jira, Figma, Bootstrap, Material UI, Tailwind CSS, OOP, Agile, Accessibility, Docker, Cloud Platforms, and other stuff too.
+###
 
-## Stuff I make[^4]
+<p align="left">PartyRoomBloom - Collecting user feedback and development of standalone API for new feature</p>
 
-- Ecohz - providing a funding solution for underserved climate projects (WeHaventLaunchedYet)
-- [SongStrudel](https://songstrudel.vercel.app/) - doubling music production productivity. ([Repo](https://github.com/BKSchatzki/songstrudel))
-- [PartyRoomBloom](https://partyroombloom.vercel.app/) - planning engaging tabletop gaming sessions. ([Repo](https://github.com/BKSchatzki/partyroombloom))
-- [C Flat Run](https://cflatrun.com) - getting this a cappella group more bookings. ([Repo](https://github.com/BKSchatzki/cflatrun-landingpage))
-- [Nick B. Schatzki](https://nbschatzki.com/) - making my brother a famous voice artist (shameless plug he's really good). ([Repo](https://github.com/BKSchatzki/nbschatzki-va))
-- Top Secret - wrangling an old React package because it did what this secretive client wanted. (ImUnderAnNda)
-- [LA Epic Club Crawls](https://laepicclubcrawls.com/) - persuading the owners to let me rebuild their site that I did my darndest to optimize.
+###
 
-## Connecting...stuff
+<p align="left">SongStrudel - Reconceptualizing product as a song analysis tool</p>
 
-Find me on [LinkedIn](https://linkedin.com/in/bkschatzki), reply to me on [X](https://x.com/bkschatzki), or check out a slightly nicer version of this bio on [my personal site](https://bkschatzki.dev).
-
-[^1]: By nerd friends, I mean tabletop roleplaying nerds and music theory nerds who don't rate pop music because it's too diatonic.
-[^2]: This time, the term "nerd friends" refers to fellow tech people. I am excellent at naming things.
-[^3]: See [Underpants Gnomes](<https://en.wikipedia.org/wiki/Gnomes_(South_Park)>).
-[^4]: The word cloud for this bio is just the word STUFF.
+###
