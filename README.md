@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">PartyRoomBloom - Collecting user feedback and development of standalone API for new feature</p>
+<p align="left">PartyRoomBloom - Collecting user feedback and development of dual standalone and integrated APIs for new feature</p>
 
 ###
 
