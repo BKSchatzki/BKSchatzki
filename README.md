@@ -1,5 +1,11 @@
 # Brendan K. Schatzki - Full Stack Software Development Engineer
 
+Full stack software development engineer specializing in React, Node, TypeScript,
+JavaScript, Next.js, PostgreSQL, MongoDB, Express, HTML, and CSS. Current
+interests include AWS, DevOps, Jest, and Testing Library. 5 years of experience working
+in the industry building applications serving education, social gaming, and creative elds,
+as well as local businesses and charities
+
 ## Core Technologies
 
 React, TypeScript, JavaScript, Node.js, Next.js, PostgreSQL, MongoDB, Express.js, HTML, CSS, Jest
