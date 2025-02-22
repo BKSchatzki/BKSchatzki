@@ -8,7 +8,7 @@ as well as local businesses and charities.
 
 ## Core Technologies
 
-React, TypeScript, JavaScript, Node.js, Next.js, PostgreSQL, MongoDB, Express.js, HTML, CSS, Jest
+React, TypeScript, JavaScript, Node.js, Next.js, PostgreSQL, MongoDB, Express.js, HTML, CSS, Jest, and many more. (Ask me!)
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="32" alt="react logo"  />
