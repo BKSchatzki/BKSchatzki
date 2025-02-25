@@ -1,14 +1,10 @@
 # Brendan K. Schatzki - Full Stack Software Development Engineer
 
 Full stack software development engineer specializing in React, Node, TypeScript,
-JavaScript, Next.js, PostgreSQL, MongoDB, Express, HTML, and CSS. Current
+JavaScript, Next.js, PostgreSQL, MongoDB, Express, and more. Current
 interests include AWS, DevOps, Jest, and Testing Library. 5 years of experience working
-in the industry building applications serving education, social gaming, and creative elds,
+in the industry building applications serving education, social gaming, and creative fields,
 as well as local businesses and charities.
-
-## Core Technologies
-
-React, TypeScript, JavaScript, Node.js, Next.js, PostgreSQL, MongoDB, Express.js, HTML, CSS, Jest, and many more. (Ask me!)
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="32" alt="react logo"  />
@@ -19,9 +15,6 @@ React, TypeScript, JavaScript, Node.js, Next.js, PostgreSQL, MongoDB, Express.js
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="32" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="32" alt="mongodb logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="32" alt="express logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="32" alt="jest logo"  />
 </div>
 
 ## Current Focuses
