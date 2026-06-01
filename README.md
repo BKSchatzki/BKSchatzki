@@ -8,14 +8,6 @@ My work spans the gamut from legacy and enterprise software to cutting-edge
 modern web apps, and I am comfortable in both traditional and AI-assisted
 workflows.
 
-**Core stack**
-
-- Languages: TypeScript, JavaScript, Python, PHP, Go
-- Frontend: React, Next.js
-- Backend/API: Node.js, Hono, Fastify, Express
-- Data: SQL, PL/SQL, PostgreSQL, Oracle, MySQL, MongoDB
-- Shell/Ops: Bash, PowerShell, AWS, DevOps
-
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
