@@ -2,9 +2,10 @@
 
 Full stack software engineer specializing in React, Node, TypeScript,
 JavaScript, Next.js, PostgreSQL, MongoDB, Express, and more. I am employed as an
-enterprise developer at LSSC and do principal engineering work for BigTB, a
-Vegas-based firm. My work focuses on practical, maintainable software for
-enterprise workflows, business operations, and web products.
+enterprise developer at LSSC and serve as lead engineer for BigTB, a Vegas-based
+firm working on major projects for local startups. My work focuses on practical,
+maintainable software for enterprise workflows, business operations, and web
+products.
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="32" alt="react logo"  />
@@ -20,4 +21,4 @@ enterprise workflows, business operations, and web products.
 ## Current Work
 
 - Enterprise development at LSSC
-- Principal engineering work for BigTB, a Vegas-based firm
+- Lead engineering for BigTB on major projects for local Vegas-based startups
