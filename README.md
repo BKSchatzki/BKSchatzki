@@ -1,12 +1,11 @@
-# Brendan K. Schatzki - Full Stack Software Engineer
+# Brendan K. Schatzki
 
-I am a full stack software engineer, an enterprise developer at Lake Sumter
-State College (LSSC), and the lead engineer for BigTB, a Vegas-based firm
-building major projects for local startups.
+**Enterprise Developer** at Lake Sumter State College / **Lead Engineer** for
+BigTB.
 
-My work spans the gamut from legacy and enterprise software to cutting-edge
-modern web apps, and I am comfortable in both traditional and AI-assisted
-workflows.
+From legacy systems to cutting edge solutions.
+
+Empowered by both enterprise software and modern AI tooling.
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo"  />
