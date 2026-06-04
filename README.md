@@ -1,11 +1,6 @@
 # Brendan K. Schatzki
 
-**Enterprise Developer** at Lake Sumter State College / **Lead Engineer** for
-BigTB.
-
-From legacy systems to cutting edge solutions.
-
-Empowered by both enterprise software and modern AI tooling.
+**Enterprise Developer** at Lake Sumter State College / **Lead Engineer** for BigTB. From legacy systems to cutting edge solutions. Empowered by both enterprise software and modern AI tooling.
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="32" alt="typescript logo"  />
